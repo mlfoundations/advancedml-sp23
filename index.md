@@ -20,7 +20,7 @@ seo:
 
 This course will cover advanced machine learning, from VC dimension to ChatGPT.
 It will be divided into two parts: theoretical and emperical.
-In the first we will cover topics such as VC dimension, Radamacher complexity, ERM, generalization bounds, and optimization basics.
+In the first we will cover topics such as VC dimension, Rademacher complexity, ERM, generalization bounds, and optimization basics.
 Next we will cover the components and development of advanced ML systems such as GPT-3.
 
 ## Lecture
