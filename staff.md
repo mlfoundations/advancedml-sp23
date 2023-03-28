@@ -4,7 +4,7 @@ title: Staff
 description: A listing of all the course staff members.
 ---
 
-Note: please cc the TA on emails.
+Note: please cc the TAs on emails.
 
 ## Instructors
 
