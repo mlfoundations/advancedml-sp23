@@ -1,0 +1,31 @@
+Alex Fang: Hacker
+Ananditha Raghunath: Summarizer
+Atharva Chopde: Industry Practitioner
+Benlin Liu: Scientific peer reviewer (positive)
+Bernease Herman: Archaeologist
+Daniel Jiang: Social Impact Assesor
+Daniela Koch: Social Impact Assesor
+Esteban Safranchik: Industry Practitioner
+Galen Weld: Summarizer
+Jason Xie: Scientific peer revieiwer (negative)
+Jeffrey Li: Hacker
+Jingyuan Li: Connector
+Johanna Karras: Scientific peer reviewer (positive)
+Julian Michael: Hacker
+Kaiser Sun: Scientific peer reviewer (positive)
+Ken Gu: Academic Researcher
+Leroy Wang: Scientific peer revieiwer (negative)
+Margaret Li: Private Investigator
+Melanie Sclar: Hacker
+Mike Merrill: Archaeologist
+Olivia Thomas: Connector
+Rinav Kasthuri: Social Impact Assesor
+Sarah Pratt: Private Investigator
+Skyler Hallinan: Social Impact Assesor
+Swati Padmanabhan: Scientific peer revieiwer (negative)
+Thao Nguyen: Archaeologist
+Vivek Ramanujan: Private Investigator
+Weijia Shi: Connector
+Xiujun Li: Connector
+Yang Zheng: Academic Researcher
+Yuhao Wan: Summarizer

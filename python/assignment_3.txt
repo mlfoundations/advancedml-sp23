@@ -1,0 +1,29 @@
+Alex Fang: Archaeologist
+Ananditha Raghunath: Scientific peer revieiwer (negative)
+Atharva Chopde: Academic Researcher
+Benlin Liu: Academic Researcher
+Bernease Herman: Hacker
+Daniela Koch: Scientific peer revieiwer (negative)
+Esteban Safranchik: Scientific peer reviewer (positive)
+Galen Weld: Archaeologist
+Jeffrey Li: Connector
+Jingyuan Li: Summarizer
+Johanna Karras: Scientific peer reviewer (positive)
+Josh Gardner: Private Investigator
+Julian Michael: Scientific peer revieiwer (negative)
+Kaiser Sun: Scientific peer reviewer (positive)
+Ken Gu: Scientific peer revieiwer (negative)
+Leroy Wang: Summarizer
+Margaret Li: Private Investigator
+Melanie Sclar: Connector
+Mike Merrill: Academic Researcher
+Rinav Kasthuri: Scientific peer reviewer (positive)
+Sarah Pratt: Hacker
+Skyler Hallinan: Connector
+Swati Padmanabhan: Archaeologist
+Thao Nguyen: Summarizer
+Vivek Ramanujan: Connector
+Weijia Shi: Hacker
+Xiujun Li: Private Investigator
+Yang Zheng: Private Investigator
+Yuhao Wan: Hacker

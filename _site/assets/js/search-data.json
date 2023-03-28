@@ -1,0 +1,92 @@
+{"0": {
+    "doc": "Announcements",
+    "title": "Announcements",
+    "content": " ",
+    "url": "http://localhost:4000/advancedml-sp23/announcements/",
+    "relUrl": "/announcements/"
+  },"1": {
+    "doc": "Announcements",
+    "title": "First lecture.",
+    "content": "Mar 28 The first lecture will be March 28th, 10-11:20am, CSE2 G04 (Gates building). ",
+    "url": "http://localhost:4000/advancedml-sp23/announcements/",
+    "relUrl": "/announcements/"
+  },"2": {
+    "doc": "Advanced Machine Learning",
+    "title": "Advanced Machine Learning",
+    "content": "University of Washington, Autumn 2023 . Announcements . ",
+    "url": "http://localhost:4000/advancedml-sp23/",
+    "relUrl": "/"
+  },"3": {
+    "doc": "Advanced Machine Learning",
+    "title": "About",
+    "content": "This course will cover advanced machine learning, from VC dimension to ChatGPT. It will be divided into two parts: theoretical and emperical. In the first we will cover topics such as VC dimension, Radamacher complexity, ERM, generalization bounds, and optimization basics. Next we will cover the components and development of advanced ML systems such as GPT-3. ",
+    "url": "http://localhost:4000/advancedml-sp23/#about",
+    "relUrl": "/#about"
+  },"4": {
+    "doc": "Advanced Machine Learning",
+    "title": "Lecture",
+    "content": "Tuesday / Thursday 10 - 11:20 am PT CSE2 G04 (Gates building). Lecture 1Introduction (March 28) . ",
+    "url": "http://localhost:4000/advancedml-sp23/#lecture",
+    "relUrl": "/#lecture"
+  },"5": {
+    "doc": "Schedule",
+    "title": "Weekly Schedule",
+    "content": ". | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | . | ",
+    "url": "http://localhost:4000/advancedml-sp23/schedule/#weekly-schedule",
+    "relUrl": "/schedule/#weekly-schedule"
+  },"6": {
+    "doc": "Schedule",
+    "title": "Monday",
+    "content": "| ",
+    "url": "http://localhost:4000/advancedml-sp23/schedule/",
+    "relUrl": "/schedule/"
+  },"7": {
+    "doc": "Schedule",
+    "title": "Tuesday",
+    "content": ". | Lecture 10:00 AM–11:20 AM CSE2 G04 | . | ",
+    "url": "http://localhost:4000/advancedml-sp23/schedule/",
+    "relUrl": "/schedule/"
+  },"8": {
+    "doc": "Schedule",
+    "title": "Wednesday",
+    "content": "| ",
+    "url": "http://localhost:4000/advancedml-sp23/schedule/",
+    "relUrl": "/schedule/"
+  },"9": {
+    "doc": "Schedule",
+    "title": "Thursday",
+    "content": ". | Lecture 10:00 AM–11:20 AM CSE2 G04 | . | ",
+    "url": "http://localhost:4000/advancedml-sp23/schedule/",
+    "relUrl": "/schedule/"
+  },"10": {
+    "doc": "Schedule",
+    "title": "Friday",
+    "content": "| . ",
+    "url": "http://localhost:4000/advancedml-sp23/schedule/",
+    "relUrl": "/schedule/"
+  },"11": {
+    "doc": "Schedule",
+    "title": "Schedule",
+    "content": " ",
+    "url": "http://localhost:4000/advancedml-sp23/schedule/",
+    "relUrl": "/schedule/"
+  },"12": {
+    "doc": "Staff",
+    "title": "Instructors",
+    "content": "Ludwig Schmidt . schmidt@cs.washington.edu . ",
+    "url": "http://localhost:4000/advancedml-sp23/staff/#instructors",
+    "relUrl": "/staff/#instructors"
+  },"13": {
+    "doc": "Staff",
+    "title": "Teaching Assistants",
+    "content": "Gabriel Ilharco . gamaga@cs.washington.edu . Jonathan Hayase . jhayase@cs.washington.edu . Mitchell Wortsman . mitchnw@cs.washington.edu . Tim Dettmers . dettmers@cs.washington.edu . ",
+    "url": "http://localhost:4000/advancedml-sp23/staff/#teaching-assistants",
+    "relUrl": "/staff/#teaching-assistants"
+  },"14": {
+    "doc": "Staff",
+    "title": "Staff",
+    "content": "Note: please cc the TA on emails. ",
+    "url": "http://localhost:4000/advancedml-sp23/staff/",
+    "relUrl": "/staff/"
+  }
+}
