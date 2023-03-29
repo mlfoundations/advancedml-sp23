@@ -19,13 +19,13 @@
   },"3": {
     "doc": "Advanced Machine Learning",
     "title": "About",
-    "content": "This course will cover advanced machine learning, from VC dimension to ChatGPT. It will be divided into two parts: theoretical and emperical. In the first we will cover topics such as VC dimension, Radamacher complexity, ERM, generalization bounds, and optimization basics. Next we will cover the components and development of advanced ML systems such as GPT-3. ",
+    "content": "This course will cover advanced machine learning, from VC dimension to ChatGPT. It will be divided into two parts: theoretical and emperical. In the first we will cover topics such as VC dimension, Rademacher complexity, ERM, generalization bounds, and optimization basics. Next we will cover the components and development of advanced ML systems such as GPT-3. ",
     "url": "http://localhost:4000/advancedml-sp23/#about",
     "relUrl": "/#about"
   },"4": {
     "doc": "Advanced Machine Learning",
     "title": "Lecture",
-    "content": "Tuesday / Thursday 10 - 11:20 am PT CSE2 G04 (Gates building). Lecture 1Introduction (March 28) . ",
+    "content": "Tuesday / Thursday 10 - 11:20 am PT CSE2 G04 (Gates building). Lecture 1 Introduction (March 28) (slides). ",
     "url": "http://localhost:4000/advancedml-sp23/#lecture",
     "relUrl": "/#lecture"
   },"5": {
@@ -85,7 +85,7 @@
   },"14": {
     "doc": "Staff",
     "title": "Staff",
-    "content": "Note: please cc the TA on emails. ",
+    "content": "To contact the instructor and TAs use cse599s-staff@cs.washington.edu. ",
     "url": "http://localhost:4000/advancedml-sp23/staff/",
     "relUrl": "/staff/"
   }
