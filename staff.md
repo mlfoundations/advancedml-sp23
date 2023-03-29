@@ -4,7 +4,7 @@ title: Staff
 description: A listing of all the course staff members.
 ---
 
-Note: please cc the TAs on emails.
+To contact the instructor and TAs use cse599s-staff@cs.washington.edu.
 
 ## Instructors
 
