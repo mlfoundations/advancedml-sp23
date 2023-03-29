@@ -27,4 +27,4 @@ Next we will cover the components and development of advanced ML systems such as
 
 Tuesday / Thursday 10 - 11:20 am PT  CSE2 G04 (Gates building).
 
-**Lecture 1**{: .label .label-purple }Introduction (March 28)
+**Lecture 1**{: .label .label-purple } Introduction (March 28) ([Slides](/au21/assets/lectures/cs599_sp23_lecture_01.pdf)).
