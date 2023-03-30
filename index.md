@@ -28,3 +28,5 @@ Next we will cover the components and development of advanced ML systems such as
 Tuesday / Thursday 10 - 11:20 am PT  CSE2 G04 (Gates building).
 
 **Lecture 1**{: .label .label-purple } Introduction (March 28) ([slides](/assets/cs599_sp23_lecture_01.pdf)).
+
+**Lecture 2**{: .label .label-purple } Introduction to learning theory (March 30) (Chapters 2 and 3 in [Understaning Maching Learning](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) -- [PDF](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf))
