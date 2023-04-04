@@ -1,6 +1,6 @@
 ---
-title: First lecture.
+title: Announcements will be on Ed Stem.
 week: 0
 date: 2023-03-28
 ---
-The first lecture will be March 28th, 10-11:20am, CSE2 G04 (Gates building).
+Please visit the [Ed page](https://edstem.org/us/courses/38321/discussion/) for announcements.
