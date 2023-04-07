@@ -27,13 +27,18 @@ schedule:
       end: 11:20 AM
       location: CSE2 G04
   - name: Wednesday
+    events:
+    - name: Office Hours (Ludwig)
+      start: 10:30 AM
+      end: 11:30 AM
+      location: Gates 214
   - name: Thursday
     events:
     - name: Lecture
       start: 10:00 AM
       end: 11:20 AM
       location: CSE2 G04
-    - name: TA Hours (Mitchell / Gabriel)
+    - name: Office Hours (Mitchell / Gabriel)
       start: 2:00 PM
       end: 3:00 PM
       location: Gates 376
