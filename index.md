@@ -27,6 +27,11 @@ Tuesday / Thursday 10 - 11:20 am PT  CSE2 G04 (Gates building).
 
 **Lecture 2**{: .label .label-purple } Introduction to learning theory -- PAC learning of finite hypothesis classes in the realizable case (March 30) (Chapters 2 and 3 in [Understaning Maching Learning](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) -- [PDF](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf))
 
+**Lecture 3**{: .label .label-purple } See [edstem post](https://edstem.org/us/courses/38321/discussion/2884601).
+
+**Lecture 4**{: .label .label-purple } See [edstem post](https://edstem.org/us/courses/38321/discussion/2896186).
+
+
 ## Grading
 
 For students enrolled in CSE 493, your class grade will be determined by:
