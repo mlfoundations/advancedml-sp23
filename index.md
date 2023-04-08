@@ -19,6 +19,10 @@ It will be divided into two parts: theoretical and emperical.
 In the first we will cover topics such as VC dimension, Rademacher complexity, ERM, generalization bounds, and optimization basics.
 Next we will cover the components and development of advanced ML systems such as GPT-3.
 
+## Assignments
+
+**Homework 1** ([PDF](/assets/hw1/hw1.pdf), [source](/assets/hw1/hw1_source.zip)).
+
 ## Lecture
 
 Tuesday / Thursday 10 - 11:20 am PT  CSE2 G04 (Gates building).
