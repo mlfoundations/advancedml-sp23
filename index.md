@@ -21,7 +21,7 @@ Next we will cover the components and development of advanced ML systems such as
 
 ## Assignments
 
-**Homework 1**{: .label .label-purple } ([PDF](/assets/hw1/hw1.pdf), [source](/assets/hw1/hw1_source.zip)). Deadline: 
+**Homework 1**{: .label .label-purple } ([PDF](/assets/hw1/hw1.pdf), [source](/assets/hw1/hw1_source.zip)). Due on Thursday, April 27th at 11:59pm.
 
 ## Lecture
 
