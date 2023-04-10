@@ -26,6 +26,10 @@ schedule:
       start: 10:00 AM
       end: 11:20 AM
       location: CSE2 G04
+    - name: Office Hours (Jon)
+      start: 3:00 PM
+      end: 4:00 PM
+      location: Gates 377
   - name: Wednesday
     events:
     - name: Office Hours (Ludwig)
@@ -38,9 +42,13 @@ schedule:
       start: 10:00 AM
       end: 11:20 AM
       location: CSE2 G04
-    - name: Office Hours (Mitchell / Gabriel)
-      start: 2:00 PM
-      end: 3:00 PM
-      location: Gates 376
+    - name: Office Hours (Jon)
+      start: 3:00 PM
+      end: 4:00 PM
+      location: Gates 377
+    # - name: Office Hours (Mitchell / Gabriel)
+    #   start: 2:00 PM
+    #   end: 3:00 PM
+    #   location: Gates 376
   - name: Friday
 ---
