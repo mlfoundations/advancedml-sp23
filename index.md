@@ -35,6 +35,7 @@ Tuesday / Thursday 10 - 11:20 am PT  CSE2 G04 (Gates building).
 
 **Lecture 4**{: .label .label-purple } See [edstem post](https://edstem.org/us/courses/38321/discussion/2896186).
 
+**Lecture 5**{: .label .label-purple } Convergence of Gradient Descent. [Smooth and convex starts at Sec 2.3 here](https://ee227c.github.io/notes/ee227c-lecture02.pdf) while smooth and strongly convex is [here](https://ee227c.github.io/notes/ee227c-lecture03.pdf).
 
 ## Grading
 
