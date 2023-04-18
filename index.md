@@ -49,3 +49,23 @@ For students enrolled in CSE 599, your class grade will be determined by:
 - 20% assignment 2
 - 10% reading assignment
 - 50% final project
+
+## Project
+
+The project will be about a replication of research, original empirical research, or a summarization of a line of theoretical work (and potential extension). There are three milestones for the project: (1) a proposal what you will work on, (2) version 1 which checks if you are on track to finish the project in time, (3) the final version which includes the full report.
+
+**Resources**:
+- [Project instructions](/assets/CSE599_Project.pdf)
+- [Project latex template](/assets/Project_Report_Instructions_for_CSE_599.zip)
+- [Team finding sheet](https://docs.google.com/spreadsheets/d/1impRHDtYt_GzSlmgf2L3zeKFAk09P0oDsAAw-Hg0HwA/edit?usp=sharing)
+
+**Deadlines**:
+- Proposal: Friday, April 28
+- Version 1: Friday, May 12
+- Final version: Friday, June 2
+
+**Grading** for the project is distributed as such: 10% for the proposal, 25% for version 1, and 65% for the final version. The project is 50% of total course project grade.
+
+Contact dettmers@cs.washington.edu if you have any issues with the project, such as finding a team, finding a project, or making progress on your project.
+
+Tim will also be available for office hours centered around the project. Office hours will be posted soon.
