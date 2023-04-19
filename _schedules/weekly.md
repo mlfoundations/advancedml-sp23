@@ -33,8 +33,8 @@ schedule:
   - name: Wednesday
     events:
     - name: Office Hours (Ludwig)
-      start: 10:30 AM
-      end: 11:30 AM
+      start: 3:30 AM
+      end: 4:30 AM
       location: Gates 214
   - name: Thursday
     events:
