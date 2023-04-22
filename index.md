@@ -41,7 +41,7 @@ Tuesday / Thursday 10 - 11:20 am PT  CSE2 G04 (Gates building).
 
 **Lecture 7**{: .label .label-purple } Optimizers. [See chapter 14 of the textbook for the analysis of GD in the Lipschitz setting and the analysis of SGD](https://edstem.org/us/courses/38321/discussion/2893497). [See here for the Adam slides](/assets/adam.pdf).
 
-**Lecture 8**{: .label .label-purple } [Generalization bounds](/assets/learning_theory.pdf).
+**Lecture 8**{: .label .label-purple } [Generalization bounds and online learning](/assets/learning_theory.pdf).
 
 ## Grading
 
