@@ -38,6 +38,10 @@ schedule:
       location: Gates 214
   - name: Thursday
     events:
+    - name Project Office Hours (Tim)
+      start: 9:00 AM
+      end: 10:00 AM
+      location: Allen Center, CSE1 678
     - name: Lecture
       start: 10:00 AM
       end: 11:20 AM
