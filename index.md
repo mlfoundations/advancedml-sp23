@@ -66,7 +66,7 @@ The project will be about a replication of research, original empirical research
 - [Team finding sheet](https://docs.google.com/spreadsheets/d/1impRHDtYt_GzSlmgf2L3zeKFAk09P0oDsAAw-Hg0HwA/edit?usp=sharing)
 
 **Deadlines**:
-- Proposal: Friday, April 28, 11:59pm
+- Proposal: Monday, May 1, 11:59pm
 - Version 1: Friday, May 12, 11:59pm
 - Final version: Friday, June 2, 11:59pm
 
