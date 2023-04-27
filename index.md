@@ -43,6 +43,10 @@ Tuesday / Thursday 10 - 11:20 am PT  CSE2 G04 (Gates building).
 
 **Lecture 8**{: .label .label-purple } [Generalization bounds and online learning](/assets/learning_theory.pdf).
 
+## Extra Reading Assignment
+
+**Week 1**{: .label .label-purple } April 27 - May 4: [GPT-2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf). Due 11:59pm on May 4. For more detail see [here](https://edstem.org/us/courses/38321/discussion/3033185).
+
 ## Grading
 
 For students enrolled in CSE 493, your class grade will be determined by:
