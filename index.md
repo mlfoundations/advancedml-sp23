@@ -43,6 +43,10 @@ Tuesday / Thursday 10 - 11:20 am PT  CSE2 G04 (Gates building).
 
 **Lecture 8**{: .label .label-purple } [Generalization bounds and online learning](/assets/learning_theory.pdf).
 
+**Lecture 9**{: .label .label-purple } [Generalization bounds continued](/assets/learning_theory.pdf).
+
+**Lecture 10**{: .label .label-purple } [Introduction to language modelling](https://www.youtube.com/watch?v=BnpB3GrpsfM).
+
 ## Extra Reading Assignment
 
 **Week 1**{: .label .label-purple } April 27 - May 4: [GPT-2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf). Due 11:59pm on May 4. For more detail see [here](https://edstem.org/us/courses/38321/discussion/3033185).
