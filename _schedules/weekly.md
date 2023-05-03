@@ -43,6 +43,7 @@ schedule:
       end: 3:00 PM
       location: Gates 376
   - name: Friday
+    events:
     - name: Project Office Hours (Tim)
       start: 10:00 AM
       end: 11:00 AM
