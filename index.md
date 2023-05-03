@@ -80,7 +80,7 @@ The project will be about a replication of research, original empirical research
 
 **Office hours for project milestones**
 - Proposal office hours: Thursday, April 27, 9am, Allen Center, CSE1 678
-- Milestone 1 and Final version office hours: Fridays May 12 to June 2, 10am, Allen Center, CSE1 678
+- Milestone 1 and Final version office hours: Fridays May 5 to June 2, 10am, Allen Center, CSE1 678
 
 **Grading** for the project is distributed as such: 10% for the proposal, 25% for version 1, and 65% for the final version. The project is 50% of total course project grade.
 
