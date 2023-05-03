@@ -21,6 +21,8 @@ Next we will cover the components and development of advanced ML systems such as
 
 ## Assignments
 
+[Like to gradescope.](https://www.gradescope.com/courses/535622).
+
 **Homework 1**{: .label .label-purple } Version 4 ([PDF](/assets/hw1/hw1.pdf), [source](/assets/hw1/hw1_source.zip)). Due on Tuesday, May 2nd at 11:59pm.
 
 ## Lecture
