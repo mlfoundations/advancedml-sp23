@@ -53,6 +53,10 @@ Tuesday / Thursday 10 - 11:20 am PT  CSE2 G04 (Gates building).
 
 **Week 1**{: .label .label-purple } April 27 - May 4: [GPT-2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf). Due 11:59pm on May 4. For more detail see [here](https://edstem.org/us/courses/38321/discussion/3033185).
 
+**Week 2**{: .label .label-purple } May 4 - May 11: [GPT-3](https://arxiv.org/abs/2005.14165). Due 11:59pm on May 11. For more detail see [here](https://edstem.org/us/courses/38321/discussion/3076639).
+
+**Week 3**{: .label .label-purple } May 11 - May 18: [Transformers](https://arxiv.org/abs/1706.03762). Due 11:59pm on May 18. For more detail see [here](https://edstem.org/us/courses/38321/discussion/3076639).
+
 ## Grading
 
 For students enrolled in CSE 493, your class grade will be determined by:
