@@ -25,7 +25,7 @@ Next we will cover the components and development of advanced ML systems such as
 
 **Homework 1**{: .label .label-purple } Version 4 ([PDF](/assets/hw1/hw1.pdf), [source](/assets/hw1/hw1_source.zip)). Due on Tuesday, May 2nd at 11:59pm.
 
-**Homework 2**{: .label .label-purple } Version 1 ([PDF](/assets/hw2/hw2.pdf)). HW2 is due on Sunday, June 4th at 11:59pm.
+**Homework 2**{: .label .label-purple } Version 1 ([PDF](/assets/hw2/hw2.pdf)). HW2 is due on Sunday, June 4th at 11:59pm. Submissions should be done by one person per group.
 
 ## Lecture
 
