@@ -15,17 +15,9 @@ seo:
 ## About
 
 This course will cover advanced machine learning, from VC dimension to ChatGPT.
-It will be divided into two parts: theoretical and emperical.
+It will be divided into two parts: theoretical and empirical.
 In the first we will cover topics such as VC dimension, Rademacher complexity, ERM, generalization bounds, and optimization basics.
 Next we will cover the components and development of advanced ML systems such as GPT-3.
-
-## Assignments
-
-[Link to gradescope.](https://www.gradescope.com/courses/535622)
-
-**Homework 1**{: .label .label-purple } Version 4 ([PDF](/assets/hw1/hw1.pdf), [source](/assets/hw1/hw1_source.zip)). Due on Tuesday, May 2nd at 11:59pm.
-
-**Homework 2**{: .label .label-purple } Version 1 ([PDF](/assets/hw2/hw2.pdf)). HW2 is due on Sunday, June 4th at 11:59pm. Submissions should be done by one person per group.
 
 ## Lecture
 
@@ -63,6 +55,14 @@ Tuesday / Thursday 10 - 11:20 am PT  CSE2 G04 (Gates building).
 
 **Lecture 16**{: .label .label-purple } [Generalization bounds, scaling, multimodal models](/assets/518.pdf).
 
+## Assignments
+
+[Link to gradescope.](https://www.gradescope.com/courses/535622)
+
+**Homework 1**{: .label .label-purple } Version 4 ([PDF](/assets/hw1/hw1.pdf), [source](/assets/hw1/hw1_source.zip)). Due on Tuesday, May 2nd at 11:59pm.
+
+**Homework 2**{: .label .label-purple } Version 1 ([PDF](/assets/hw2/hw2.pdf)). HW2 is due on Sunday, June 4th at 11:59pm. Submissions should be done by one person per group.
+
 ## Extra Reading Assignment
 
 **Week 1**{: .label .label-purple } April 27 - May 4: [GPT-2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf). Due 11:59pm on May 4. For more detail see [here](https://edstem.org/us/courses/38321/discussion/3033185).
@@ -70,19 +70,6 @@ Tuesday / Thursday 10 - 11:20 am PT  CSE2 G04 (Gates building).
 **Week 2**{: .label .label-purple } May 4 - May 11: [GPT-3](https://arxiv.org/abs/2005.14165). Due 11:59pm on May 11. For more detail see [here](https://edstem.org/us/courses/38321/discussion/3076639).
 
 **Week 3**{: .label .label-purple } May 11 - May 18: [Transformers](https://arxiv.org/abs/1706.03762). Due 11:59pm on May 18. For more detail see [here](https://edstem.org/us/courses/38321/discussion/3076639).
-
-## Grading
-
-For students enrolled in CSE 493, your class grade will be determined by:
-- 25% assignment 1
-- 25% assignment 2
-- 50% final project
-
-For students enrolled in CSE 599, your class grade will be determined by:
-- 20% assignment 1
-- 20% assignment 2
-- 10% reading assignment
-- 50% final project
 
 ## Project
 
@@ -107,3 +94,16 @@ The project will be about a replication of research, original empirical research
 Contact dettmers@cs.washington.edu if you have any issues with the project, such as finding a team, finding a project, or making progress on your project.
 
 Tim will also be available for office hours centered around the project. Office hours will be posted soon.
+
+## Grading
+
+For students enrolled in CSE 493, your class grade will be determined by:
+- 25% assignment 1
+- 25% assignment 2
+- 50% final project
+
+For students enrolled in CSE 599, your class grade will be determined by:
+- 20% assignment 1
+- 20% assignment 2
+- 10% reading assignment
+- 50% final project
