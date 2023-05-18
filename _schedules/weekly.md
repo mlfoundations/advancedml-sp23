@@ -48,8 +48,4 @@ schedule:
       start: 10:00 AM
       end: 11:00 AM
       location: Allen Center, CSE1 678
-    - name: Office Hours (Jon)
-      start: 3:00 PM
-      end: 4:00 PM
-      location: Gates 377
 ---
