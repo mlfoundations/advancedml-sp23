@@ -91,7 +91,7 @@ The project will be about a replication of research, original empirical research
 
 **Grading** for the project is distributed as such: 10% for the proposal, 25% for version 1, and 65% for the final version. The project is 50% of total course project grade.
 
-Contact [dettmers@cs.washington.edu] if you have any issues with the project, such as finding a team, finding a project, or making progress on your project.
+Contact [dettmers@cs.washington.edu](dettmers@cs.washington.edu) if you have any issues with the project, such as finding a team, finding a project, or making progress on your project.
 
 Tim will also be available for office hours centered around the project. Office hours will be posted soon.
 
