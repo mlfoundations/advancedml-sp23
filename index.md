@@ -31,7 +31,7 @@ Next we will cover the components and development of advanced ML systems such as
 
 Tuesday / Thursday 10 - 11:20 am PT  CSE2 G04 (Gates building).
 
-**Lecture 1**{: .label .label-purple } Introduction (March 28) ([slides](/assets/cs599_sp23_lecture_01.pdf)).
+**Lecture 1**{: .label .label-purple } Introduction ([slides](/assets/cs599_sp23_lecture_01.pdf)).
 
 **Lecture 2**{: .label .label-purple } Introduction to learning theory -- PAC learning of finite hypothesis classes in the realizable case (March 30) (Chapters 2 and 3 in [Understaning Machine Learning](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) -- [PDF](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf))
 
@@ -41,15 +41,25 @@ Tuesday / Thursday 10 - 11:20 am PT  CSE2 G04 (Gates building).
 
 **Lecture 5**{: .label .label-purple } Convergence of Gradient Descent. [Smooth and convex starts at Sec 2.3 here](https://ee227c.github.io/notes/ee227c-lecture02.pdf) -- Lemma 1 and 2 discussed in class are Lemmas 2.8 and 2.9. 
 
-**Lecture 6**{: .label .label-purple } Convergence of Gradient Descent continued. [Smooth and strongly convex is here](https://ee227c.github.io/notes/ee227c-lecture03.pdf).
+**Lecture 6**{: .label .label-purple } Convergence of Gradient Descent continued. [Smooth and strongly convex is here](https://ee227c.github.io/notes/ee227c-lecture03.pdf). [See chapter 14 of the textbook for the analysis of GD in the Lipschitz setting and the analysis of SGD](https://edstem.org/us/courses/38321/discussion/2893497).
 
-**Lecture 7**{: .label .label-purple } Optimizers. [See chapter 14 of the textbook for the analysis of GD in the Lipschitz setting and the analysis of SGD](https://edstem.org/us/courses/38321/discussion/2893497). [See here for the Adam slides](/assets/adam.pdf).
+**Lecture 7**{: .label .label-purple } Continued analysis of SGD, modern optimizers. [See here for the Adam slides](/assets/adam.pdf).
 
 **Lecture 8**{: .label .label-purple } [Generalization bounds and online learning](/assets/learning_theory.pdf).
 
 **Lecture 9**{: .label .label-purple } [Generalization bounds](/assets/kevin_lec_2.pdf). Rademacher complexity - [See chapter 26](https://edstem.org/us/courses/38321/discussion/2893497).
 
 **Lecture 10**{: .label .label-purple } [Introduction to language modelling](https://www.youtube.com/watch?v=BnpB3GrpsfM).
+
+**Lecture 11**{: .label .label-purple } [Introduction to language modelling continued](https://www.youtube.com/watch?v=BnpB3GrpsfM).
+
+**Lecture 12**{: .label .label-purple } [Recent GPT-style language models](/assets/59.pdf).
+
+**Lecture 13**{: .label .label-purple } [Language modeling architecture: from zero to llama](/assets/511.pdf).
+
+**Lecture 14**{: .label .label-purple } [GPT-style language models, generalization bounds](/assets/516.pdf).
+
+**Lecture 15**{: .label .label-purple } [Generalization bounds, scaling, multimodal models](/assets/518.pdf).
 
 ## Extra Reading Assignment
 
