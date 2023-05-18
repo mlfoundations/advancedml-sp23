@@ -71,6 +71,11 @@ Tuesday / Thursday 10 - 11:20 am PT  CSE2 G04 (Gates building).
 
 **Week 3**{: .label .label-purple } May 11 - May 18: [Transformers](https://arxiv.org/abs/1706.03762). Due 11:59pm on May 18. For more detail see [here](https://edstem.org/us/courses/38321/discussion/3076639).
 
+**Week 4**{: .label .label-purple } May 18 - May 25: [CLIP](https://arxiv.org/abs/2103.00020). Due 11:59pm on May 25. For more detail see [here](https://edstem.org/us/courses/38321/discussion/3136941).
+
+**Week 5**{: .label .label-purple } May 25 - Jun 1: [Instruct GPT](https://arxiv.org/abs/2203.02155). Due 11:59pm on Jun 1. For more detail see [here](https://edstem.org/us/courses/38321/discussion/3136941).
+
+
 ## Project
 
 The project will be about a replication of research, original empirical research, or a summarization of a line of theoretical work (and potential extension). There are three milestones for the project: (1) a proposal what you will work on, (2) version 1 which checks if you are on track to finish the project in time, (3) the final version which includes the full report.
