@@ -53,13 +53,15 @@ Tuesday / Thursday 10 - 11:20 am PT  CSE2 G04 (Gates building).
 
 **Lecture 11**{: .label .label-purple } [Introduction to language modelling continued](https://www.youtube.com/watch?v=BnpB3GrpsfM).
 
-**Lecture 12**{: .label .label-purple } [Recent GPT-style language models](/assets/59.pdf).
+**Lecture 12**{: .label .label-purple } [Introduction to language modelling continued](https://www.youtube.com/watch?v=BnpB3GrpsfM).
 
-**Lecture 13**{: .label .label-purple } [Language modeling architecture: from zero to llama](/assets/511.pdf).
+**Lecture 13**{: .label .label-purple } [Recent GPT-style language models](/assets/59.pdf).
 
-**Lecture 14**{: .label .label-purple } [GPT-style language models, generalization bounds](/assets/516.pdf).
+**Lecture 14**{: .label .label-purple } [Language modeling architecture: from zero to llama](/assets/511.pdf).
 
-**Lecture 15**{: .label .label-purple } [Generalization bounds, scaling, multimodal models](/assets/518.pdf).
+**Lecture 15**{: .label .label-purple } [GPT-style language models, generalization bounds](/assets/516.pdf).
+
+**Lecture 16**{: .label .label-purple } [Generalization bounds, scaling, multimodal models](/assets/518.pdf).
 
 ## Extra Reading Assignment
 
