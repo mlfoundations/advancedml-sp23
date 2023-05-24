@@ -55,6 +55,8 @@ Tuesday / Thursday 10 - 11:20 am PT  CSE2 G04 (Gates building).
 
 **Lecture 16**{: .label .label-purple } [Generalization bounds, scaling, multimodal models](/assets/518.pdf).
 
+**Lecture 16**{: .label .label-purple } [Multimodal, continued](/assets/523.pdf).
+
 ## Assignments
 
 [Link to gradescope.](https://www.gradescope.com/courses/535622)
