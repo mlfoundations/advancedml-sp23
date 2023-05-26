@@ -55,7 +55,9 @@ Tuesday / Thursday 10 - 11:20 am PT  CSE2 G04 (Gates building).
 
 **Lecture 16**{: .label .label-purple } [Generalization bounds, scaling, multimodal models](/assets/518.pdf).
 
-**Lecture 16**{: .label .label-purple } [Multimodal, continued](/assets/523.pdf).
+**Lecture 17**{: .label .label-purple } [Multimodal, continued](/assets/523.pdf).
+
+**Lecture 18**{: .label .label-purple } [Efficient deep learning](https://docs.google.com/presentation/d/1RzNfs_33O9p3zBlCo6Twa6o_1pgn3dSCmae2D0cvAgQ/edit?usp=sharing).
 
 ## Assignments
 
