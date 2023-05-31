@@ -59,6 +59,10 @@ Tuesday / Thursday 10 - 11:20 am PT  CSE2 G04 (Gates building).
 
 **Lecture 18**{: .label .label-purple } [Efficient deep learning](https://docs.google.com/presentation/d/1RzNfs_33O9p3zBlCo6Twa6o_1pgn3dSCmae2D0cvAgQ/edit?usp=sharing).
 
+**Lecture 19**{: .label .label-purple } [Chain of thought prompting and instruction tuning](/assets/530.pdf).
+
+**Lecture 20**{: .label .label-purple } Final project presentations.
+
 ## Assignments
 
 [Link to gradescope.](https://www.gradescope.com/courses/535622)
