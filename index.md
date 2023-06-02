@@ -61,7 +61,7 @@ Tuesday / Thursday 10 - 11:20 am PT  CSE2 G04 (Gates building).
 
 **Lecture 19**{: .label .label-purple } [Chain of thought prompting and instruction tuning](/assets/530.pdf).
 
-**Lecture 20**{: .label .label-purple } Final project presentations.
+**Lecture 20**{: .label .label-purple } Final project presentations and [closing remarks](/assets/61.pdf).
 
 ## Assignments
 
